@@ -39,5 +39,6 @@ Let's connect and discuss WordPress development, tech trends, and more:
   <a href="https://profiles.wordpress.org/chinteshprajapati/" target="_blank" title="WordPress"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
 </div>
 
+---
 
 Thank you for visiting my GitHub profile! Feel free to reach out—I'm always eager to connect with fellow developers and discuss exciting projects.
