@@ -31,13 +31,7 @@ Outside of coding, I love:
 ## 📫 Connect with Me
 
 Let's connect and discuss WordPress development, tech trends, and more:
-- [LinkedIn](https://www.linkedin.com/in/chintesh-prajapati-199993167?)
-- [Facebook](https://www.facebook.com/chintesh.prajapati/)
-- [Email](mailto:prajapatichintesh@gmail.com)
-- [Instagram](https://www.instagram.com/prajapati_chintesh/)
-- [WordPress](https://profiles.wordpress.org/chinteshprajapati/)
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/chintesh-prajapati-199993167?" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://www.facebook.com/chintesh.prajapati/" target="_blank" title="Facebook"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
   <a href="mailto:prajapatichintesh@gmail.com" target="_blank" title="Email"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
