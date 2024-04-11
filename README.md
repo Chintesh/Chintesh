@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Chintesh Prajapati 👋
 
 - 🔭 I’m currently working as a Senior Lead WordPress Developer.
 - 🌱 I’m learning Gutenberg, Unit Testing, JS Testing, and React.
@@ -39,5 +39,5 @@ I work with a range of technologies to build robust WordPress solutions:
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&langs_count=4&theme=vision-friendly-dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintesh&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintesh&langs_count=4&theme=vision-friendly-dark&layout=compact)
