@@ -37,6 +37,13 @@ Let's connect and discuss WordPress development, tech trends, and more:
 - [Instagram](https://www.instagram.com/prajapati_chintesh/)
 - [WordPress](https://profiles.wordpress.org/chinteshprajapati/)
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/chintesh-prajapati-199993167?" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.facebook.com/chintesh.prajapati/" target="_blank" title="Facebook"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+  <a href="mailto:prajapatichintesh@gmail.com" target="_blank" title="Email"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://www.instagram.com/prajapati_chintesh/" target="_blank" title="Instagram"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a href="https://profiles.wordpress.org/chinteshprajapati/" target="_blank" title="WordPress"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
+</div>
 ---
 
 Thank you for visiting my GitHub profile! Feel free to reach out—I'm always eager to connect with fellow developers and discuss exciting projects.
