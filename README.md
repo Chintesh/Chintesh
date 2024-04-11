@@ -1,6 +1,6 @@
 # Hi there, I'm Chintesh 👋
 
-I'm a seasoned Senior Lead WordPress Developer with a passion for building robust and scalable solutions on the WordPress platform. With [X] years of experience, I specialize in delivering high-quality WordPress projects that meet client objectives and exceed expectations.
+I'm a seasoned Senior Lead WordPress Developer with a passion for building robust and scalable solutions on the WordPress platform. With 7 years of experience, I specialize in delivering high-quality WordPress projects that meet client objectives and exceed expectations.
 
 ## 🔧 Technologies & Tools
 
