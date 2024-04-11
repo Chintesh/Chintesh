@@ -11,6 +11,8 @@ I'm a seasoned Senior Lead WordPress Developer with a passion for building robus
 - **Tools:** Git, npm, Composer, Docker
 - **Testing:** PHPUnit, Jest
 
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F0ZXR0bmh3dm1ndm4yM2xxN3N4a2oxdzh0dDI1dTV3a2YzdGZiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxKWgoOG9hzPPkE1oc/giphy.mp4)
+
 ## 🌱 Currently Learning
 
 I'm constantly expanding my skill set and currently focusing on:
